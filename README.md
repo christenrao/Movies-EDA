@@ -13,8 +13,6 @@ This project explores a movies dataset through Exploratory Data Analysis (EDA). 
    - Removing unnecessary columns and handling duplicates or missing data.
 3. **Exploratory Data Analysis (EDA)**
    - Visualizing trends in revenue, genres, and budgets.
-4. **Conclusion**
-   - Summary of insights gained through analysis.
 
 #### Credits
 This project was completed by **Christen Rao** using the movies dataset.
